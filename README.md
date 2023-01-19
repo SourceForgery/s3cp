@@ -1,4 +1,4 @@
-# s3cp [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+# s3cp [![CircleCI](https://circleci.com/gh/SourceForgery/s3cp.svg?style=svg)](https://circleci.com/gh/SourceForgery/s3cp)
 
 Simple copy util for copying multiple files to/from s3
 
