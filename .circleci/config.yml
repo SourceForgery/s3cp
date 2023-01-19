@@ -1,7 +1,7 @@
 jobs:
   build-and-test-amd64:
     docker:
-      - image: cimg/go:1.19.33
+      - image: cimg/go:1.19.5
     steps:
       - checkout
       - restore_cache:
